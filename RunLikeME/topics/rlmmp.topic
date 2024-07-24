@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+    SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Run Like Me" id="rlmmp" help-id="rlmmp">
+
+  <chapter title="Run Like Me" id="runLikeMeMarketPlace">
+
+    <p>
+      This plugin enhances your development experience by simplifying the management and generation of Run
+      Configurations.
+    </p>
+  </chapter>
+
+</topic>

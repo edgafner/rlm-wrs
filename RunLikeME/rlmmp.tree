@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="rlmmp"
+                  name="Run Like Me Marketplace Documentation"
+                  start-page="rlmmp.topic">
+
+    <toc-element topic="rlmmp.topic">
+        <include from="rlm-lib.tree" element-id="l.tree"/>
+    </toc-element>
+
+</instance-profile>
