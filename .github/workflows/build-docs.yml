@@ -11,7 +11,7 @@ permissions:
 
 
 env:
-  INSTANCE: 'RLM/rlm'
+  INSTANCE: 'RunLikeMe/rlm'
   ARTIFACT: 'webHelpRLM2-all.zip'
   DOCKER_VERSION: '241.18775'
   ALGOLIA_ARTIFACT: 'algolia-indexes-RunLikeMe.zip'
