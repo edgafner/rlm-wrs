@@ -14,7 +14,7 @@ env:
   INSTANCE: 'RunLikeMe/rlm'
   ARTIFACT: 'webHelpRLM2-all.zip'
   DOCKER_VERSION: '241.18775'
-  ALGOLIA_ARTIFACT: 'algolia-indexes-RunLikeMe.zip'
+  ALGOLIA_ARTIFACT: 'algolia-indexes-RLM.zip'
   ALGOLIA_APP_NAME: 'DN5QHI6Q67'
   ALGOLIA_INDEX_NAME: 'RunLikeMe'
   ALGOLIA_KEY: '${{ secrets.ALGOLIA_KEY_RLM }}'
